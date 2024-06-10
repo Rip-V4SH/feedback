@@ -5,5 +5,5 @@ export const theme = {
     submitColor: '#fc7614',
     white: '#fff',
     feedbackColor: '#262e38',
-    feedbacktext: '#7c8798'
+    feedbackText: '#7c8798'
 }
